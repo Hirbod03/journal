@@ -1,10 +1,10 @@
-# Coding Journal - YYYY-MM-DD
+# Coding Journal - YYYY-DD-MM
 
 ## Current Topic/Project: [Coding Problem/Project]
 
 ### Description: [Specific details]
 
-#### Date: YYYY-MM-DD
+#### Date: YYYY-DD-MM
 #### Time Spent: [e.g., 2 hours]
 
 ---
